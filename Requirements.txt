@@ -1,0 +1,10 @@
+langchain 
+langchain-community 
+langchainhub 
+langchain-openai
+
+elevenlabs
+python-dotenv
+pydub
+
+
