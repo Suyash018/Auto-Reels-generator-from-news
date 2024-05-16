@@ -33,6 +33,9 @@ Hindi:  फाइनेंस मिनिस्टर निर्मला स
 
 
 
+https://github.com/Suyash018/Auto-Reels-generator-from-news/assets/73903830/3e905999-da00-49b5-b4ab-091d504041d4
+
+
 https://github.com/Suyash018/Auto-Reels-generator-from-news/assets/73903830/9abb527b-d7c6-4ae5-91f9-cafa2e132030
 
 
