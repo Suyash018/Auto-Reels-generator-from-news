@@ -22,7 +22,6 @@ Total Approximate Cost: ₹28.6
 **Output**
 
 
-https://github.com/Suyash018/Auto-Reels-generator-from-news/assets/73903830/44da9268-88d6-45f1-8470-0f5a2367ac87
 
 
 https://github.com/Suyash018/Auto-Reels-generator-from-news/assets/73903830/9abb527b-d7c6-4ae5-91f9-cafa2e132030
