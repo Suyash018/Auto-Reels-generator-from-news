@@ -10,7 +10,7 @@
 
 I want to convert it into an Open Source model
 
-#Paid models
+# Paid models
 
 Cost Breakdown for a 30-Second Video:
 
