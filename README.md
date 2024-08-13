@@ -6,9 +6,13 @@
 
 ![image](https://github.com/Suyash018/Auto-Reels-generator-from-news/assets/73903830/ddd737a0-ff7c-4c1d-978e-9f3bf06c2e9c)
 
-# Open source
+# Indian Stack
 
-I want to convert it into an Open Source model
+I am trying to implement my code it using an indian stack. I will continue working on it and update on it here.
+
+# Open Soirce
+
+Trying to run it locally for more security.
 
 # Paid models
 
