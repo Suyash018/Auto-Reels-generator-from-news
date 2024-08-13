@@ -1,4 +1,4 @@
-#Disclaimer
+# Disclaimer
 Please don't use this code to make AI content as my social media is full of such quality content. I don't endorse anyone to make any content from AI as it deteriorates the experience on social media. 
 
 This is just a noob workflow made in 1 week to see how good Indian Stack/open source models compare to Paid models.
