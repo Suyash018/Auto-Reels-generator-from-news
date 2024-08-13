@@ -1,3 +1,8 @@
+#Disclaimer
+Please don't use this code to make AI content as my social media is full of such quality content. I don't endorse anyone to make any content from AI as it deteriorates the experience on social media. 
+
+This is just a noob workflow made in 1 week to see how good Indian Stack/open source models compare to Paid models.
+
 ﻿# My vision
 
 ![image](https://github.com/Suyash018/Auto-Reels-generator-from-news/assets/73903830/e6bd7f17-fee9-4914-a675-87d55716b291)
