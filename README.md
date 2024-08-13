@@ -12,8 +12,10 @@ I am trying to implement my code it using an indian stack. I will continue worki
 
 I have used krutim and it is working wonders.
 Still waiting for a good Indian TTS model.
+
 **UPDATE**
-Sarvam Launched its own TTS models will use it and update the code.
+
+Sarvam Launched its own TTS models.
 
 # Open Soirce
 
